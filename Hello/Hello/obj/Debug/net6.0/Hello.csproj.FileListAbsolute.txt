@@ -1,0 +1,15 @@
+D:\project\helloworld\Hello\Hello\bin\Debug\net6.0\Hello.exe
+D:\project\helloworld\Hello\Hello\bin\Debug\net6.0\Hello.deps.json
+D:\project\helloworld\Hello\Hello\bin\Debug\net6.0\Hello.runtimeconfig.json
+D:\project\helloworld\Hello\Hello\bin\Debug\net6.0\Hello.dll
+D:\project\helloworld\Hello\Hello\bin\Debug\net6.0\ref\Hello.dll
+D:\project\helloworld\Hello\Hello\bin\Debug\net6.0\Hello.pdb
+D:\project\helloworld\Hello\Hello\obj\Debug\net6.0\Hello.csproj.AssemblyReference.cache
+D:\project\helloworld\Hello\Hello\obj\Debug\net6.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\helloworld\Hello\Hello\obj\Debug\net6.0\Hello.AssemblyInfoInputs.cache
+D:\project\helloworld\Hello\Hello\obj\Debug\net6.0\Hello.AssemblyInfo.cs
+D:\project\helloworld\Hello\Hello\obj\Debug\net6.0\Hello.csproj.CoreCompileInputs.cache
+D:\project\helloworld\Hello\Hello\obj\Debug\net6.0\Hello.dll
+D:\project\helloworld\Hello\Hello\obj\Debug\net6.0\ref\Hello.dll
+D:\project\helloworld\Hello\Hello\obj\Debug\net6.0\Hello.pdb
+D:\project\helloworld\Hello\Hello\obj\Debug\net6.0\Hello.genruntimeconfig.cache
